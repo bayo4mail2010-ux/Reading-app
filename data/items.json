@@ -1,0 +1,995 @@
+[
+  {
+    "item_id": "obj_computer",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udcbb",
+    "word": "computer",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_book",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udcd6",
+    "word": "book",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_rainbow",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83c\udf08",
+    "word": "rainbow",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_sun",
+    "skill_id": "vocabulary_objects",
+    "content": "\u2600\ufe0f",
+    "word": "sun",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_star",
+    "skill_id": "vocabulary_objects",
+    "content": "\u2b50",
+    "word": "star",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_ball",
+    "skill_id": "vocabulary_objects",
+    "content": "\u26bd",
+    "word": "ball",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_house",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83c\udfe0",
+    "word": "house",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_car",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\ude97",
+    "word": "car",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_apple",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83c\udf4e",
+    "word": "apple",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_key",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udd11",
+    "word": "key",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_teddybear",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83e\uddf8",
+    "word": "teddy bear",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_umbrella",
+    "skill_id": "vocabulary_objects",
+    "content": "\u2602\ufe0f",
+    "word": "umbrella",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_shoe",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udc5e",
+    "word": "shoe",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_clock",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udd50",
+    "word": "clock",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_tree",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83c\udf33",
+    "word": "tree",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_flower",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83c\udf38",
+    "word": "flower",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "obj_bike",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83d\udeb2",
+    "word": "bike",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_boat",
+    "skill_id": "vocabulary_objects",
+    "content": "\u26f5",
+    "word": "boat",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "obj_kite",
+    "skill_id": "vocabulary_objects",
+    "content": "\ud83e\ude81",
+    "word": "kite",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_bird",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc26",
+    "word": "bird",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_lion",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83e\udd81",
+    "word": "lion",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_tiger",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc05",
+    "word": "tiger",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_elephant",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc18",
+    "word": "elephant",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_dog",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc15",
+    "word": "dog",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_fish",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc20",
+    "word": "fish",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },{
+    "item_id": "ani_frog",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc38",
+    "word": "frog",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_butterfly",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83e\udd8b",
+    "word": "butterfly",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_horse",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc0e",
+    "word": "horse",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_duck",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83e\udd86",
+    "word": "duck",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_bear",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc3b",
+    "word": "bear",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_rabbit",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc07",
+    "word": "rabbit",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_owl",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83e\udd89",
+    "word": "owl",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_cow",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc04",
+    "word": "cow",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_pig",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc16",
+    "word": "pig",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_sheep",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc11",
+    "word": "sheep",
+    "isPicture": true,
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "ani_chicken",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc14",
+    "word": "chicken",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_monkey",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc12",
+    "word": "monkey",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "ani_penguin",
+    "skill_id": "vocabulary_animals",
+    "content": "\ud83d\udc27",
+    "word": "penguin",
+    "isPicture": true,
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "m_sound",
+    "skill_id": "letter_sounds_mn",
+    "content": "M",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "n_sound",
+    "skill_id": "letter_sounds_mn",
+    "content": "N",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "s_sound",
+    "skill_id": "letter_sounds_mn",
+    "content": "S",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "t_sound",
+    "skill_id": "letter_sounds_mn",
+    "content": "T",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "a_sound",
+    "skill_id": "letter_sounds_apr",
+    "content": "A",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "p_sound",
+    "skill_id": "letter_sounds_apr",
+    "content": "P",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "r_sound",
+    "skill_id": "letter_sounds_apr",
+    "content": "R",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_cat",
+    "skill_id": "cvc_short_a",
+    "content": "cat",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "word_map",
+    "skill_id": "cvc_short_a",
+    "content": "map",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_sat",
+    "skill_id": "cvc_short_a",
+    "content": "sat",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_ram",
+    "skill_id": "cvc_short_a",
+    "content": "ram",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_man",
+    "skill_id": "cvc_short_a",
+    "content": "man",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "word_nap",
+    "skill_id": "cvc_short_a",
+    "content": "nap",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "word_tap",
+    "skill_id": "cvc_short_a",
+    "content": "tap",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_tan",
+    "skill_id": "cvc_short_a",
+    "content": "tan",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_pan",
+    "skill_id": "cvc_short_a",
+    "content": "pan",
+    "difficulty_weight": 2
+  },{
+    "item_id": "word_stop",
+    "skill_id": "blend_st",
+    "content": "stop",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_star",
+    "skill_id": "blend_st",
+    "content": "star",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_step",
+    "skill_id": "blend_st",
+    "content": "step",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_stem",
+    "skill_id": "blend_st",
+    "content": "stem",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_stub",
+    "skill_id": "blend_st",
+    "content": "stub",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_stamp",
+    "skill_id": "blend_st",
+    "content": "stamp",
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_stool",
+    "skill_id": "blend_st",
+    "content": "stool",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_blue",
+    "skill_id": "blend_bl",
+    "content": "blue",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "word_black",
+    "skill_id": "blend_bl",
+    "content": "black",
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_blob",
+    "skill_id": "blend_bl",
+    "content": "blob",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_blot",
+    "skill_id": "blend_bl",
+    "content": "blot",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_blur",
+    "skill_id": "blend_bl",
+    "content": "blur",
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_bloom",
+    "skill_id": "blend_bl",
+    "content": "bloom",
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_blast",
+    "skill_id": "blend_bl",
+    "content": "blast",
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "sight_the",
+    "skill_id": "sight_words_3letter",
+    "content": "the",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "sight_said",
+    "skill_id": "sight_words_4letter",
+    "content": "said",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_was",
+    "skill_id": "sight_words_3letter",
+    "content": "was",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_he",
+    "skill_id": "sight_words_2letter",
+    "content": "he",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "sight_she",
+    "skill_id": "sight_words_3letter",
+    "content": "she",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_is",
+    "skill_id": "sight_words_2letter",
+    "content": "is",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "sight_to",
+    "skill_id": "sight_words_2letter",
+    "content": "to",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "sight_a",
+    "skill_id": "sight_words_2letter",
+    "content": "a",
+    "difficulty_weight": 1
+  },
+  {
+    "item_id": "sight_they",
+    "skill_id": "sight_words_4letter",
+    "content": "they",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_were",
+    "skill_id": "sight_words_4letter",
+    "content": "were",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "sight_have",
+    "skill_id": "sight_words_4letter",
+    "content": "have",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_what",
+    "skill_id": "sight_words_4letter",
+    "content": "what",
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sight_from",
+    "skill_id": "sight_words_4letter",
+    "content": "from",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "sight_your",
+    "skill_id": "sight_words_4letter",
+    "content": "your",
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_wonderful",
+    "skill_id": "word_families_multisyllabic",
+    "content": "wonderful",
+    "syllables": [
+      "won",
+      "der",
+      "ful"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_monster",
+    "skill_id": "word_families_multisyllabic",
+    "content": "monster",
+    "syllables": [
+      "mon",
+      "ster"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_sunshine",
+    "skill_id": "word_families_multisyllabic",
+    "content": "sunshine",
+    "syllables": [
+      "sun",
+      "shine"
+    ],
+    "difficulty_weight": 3
+  },{
+    "item_id": "word_rainbow",
+    "skill_id": "word_families_multisyllabic",
+    "content": "rainbow",
+    "syllables": [
+      "rain",
+      "bow"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "word_butterfly",
+    "skill_id": "word_families_multisyllabic",
+    "content": "butterfly",
+    "syllables": [
+      "but",
+      "ter",
+      "fly"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_elephant",
+    "skill_id": "word_families_multisyllabic",
+    "content": "elephant",
+    "syllables": [
+      "el",
+      "e",
+      "phant"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "word_basketball",
+    "skill_id": "word_families_multisyllabic",
+    "content": "basketball",
+    "syllables": [
+      "bas",
+      "ket",
+      "ball"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "story_sam_cat",
+    "skill_id": "reading_comprehension_short",
+    "story": "Sam the cat sat on a big red mat. Sam was happy.",
+    "question": "What did Sam sit on?",
+    "content": "a mat",
+    "distractors": [
+      "a hat",
+      "a dog"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "story_fox_forest",
+    "skill_id": "reading_comprehension_short",
+    "story": "The little fox ran fast through the forest. He wanted to find his friends.",
+    "question": "Who was the fox looking for?",
+    "content": "his friends",
+    "distractors": [
+      "his mom",
+      "a map"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "story_monster_hat",
+    "skill_id": "reading_comprehension_short",
+    "story": "The monster had a big red hat. He was very happy.",
+    "question": "What color was the monster's hat?",
+    "content": "red",
+    "distractors": [
+      "blue",
+      "black"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "story_star_dog",
+    "skill_id": "reading_comprehension_short",
+    "story": "Star the dog can run and jump. Star likes to play in the sun.",
+    "question": "What does Star like to do?",
+    "content": "play in the sun",
+    "distractors": [
+      "sleep all day",
+      "eat a mat"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "story_ben_bird",
+    "skill_id": "reading_comprehension_short",
+    "story": "Ben the bird was little. He had a nest in a tree.",
+    "question": "Where was Ben's nest?",
+    "content": "in a tree",
+    "distractors": [
+      "in a car",
+      "on a boat"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "sentence_cat_sat",
+    "skill_id": "sentence_building",
+    "words": [
+      "the",
+      "cat",
+      "sat"
+    ],
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "sentence_tan_cat",
+    "skill_id": "sentence_building",
+    "words": [
+      "they",
+      "have",
+      "a",
+      "tan",
+      "cat"
+    ],
+    "difficulty_weight": 4
+  },
+  {
+    "item_id": "sentence_she_cat",
+    "skill_id": "sentence_building",
+    "words": [
+      "she",
+      "was",
+      "a",
+      "cat"
+    ],
+    "difficulty_weight": 3
+  },
+  {
+    "item_id": "sentence_man_sat",
+    "skill_id": "sentence_building",
+    "words": [
+      "the",
+      "man",
+      "sat"
+    ],
+    "difficulty_weight": 2
+  },
+  {
+    "item_id": "adventure_door",
+    "skill_id": "choose_your_adventure",
+    "difficulty_weight": 4,
+    "startNode": "start",
+    "nodes": {
+      "start": {
+        "text": "You find a mystery door in your backyard. It is red and locked.",
+        "choices": [
+          {
+            "label": "Look for a key",
+            "next": "key_path"
+          },
+          {
+            "label": "Knock on the door",
+            "next": "knock_path"
+          }
+        ]
+      },
+      "key_path": {
+        "text": "You find a shiny gold key under a rock!",
+        "choices": [
+          {
+            "label": "Open the door",
+            "next": "end_open"
+          },
+          {
+            "label": "Keep the key and go home",
+            "next": "end_keep"
+          }
+        ]
+      },
+      "knock_path": {
+        "text": "You hear a friendly voice say hello!",
+        "choices": [
+          {
+            "label": "Ask who it is",
+            "next": "end_ask"
+          },
+          {
+            "label": "Run away",
+            "next": "end_run"
+          }
+        ]
+      },
+      "end_open": {
+        "text": "The door opens to a room full of toys! What a great day!",
+        "isEnding": true
+      },
+      "end_keep": {
+        "text": "You keep the key safe for another day. The end.",
+        "isEnding": true
+      },
+      "end_ask": {
+        "text": "It's a talking cat! You make a new friend.",
+        "isEnding": true
+      },
+      "end_run": {
+        "text": "You run home for dinner. Maybe next time!",
+        "isEnding": true
+      }
+    }
+  },{
+    "item_id": "adventure_puppy",
+    "skill_id": "choose_your_adventure",
+    "difficulty_weight": 4,
+    "startNode": "start",
+    "nodes": {
+      "start": {
+        "text": "You see a lost puppy in the park. It looks scared.",
+        "choices": [
+          {
+            "label": "Pet the puppy gently",
+            "next": "pet_path"
+          },
+          {
+            "label": "Go find help",
+            "next": "help_path"
+          }
+        ]
+      },
+      "pet_path": {
+        "text": "The puppy licks your hand and wags its tail!",
+        "choices": [
+          {
+            "label": "Take the puppy home",
+            "next": "end_home"
+          },
+          {
+            "label": "Play fetch first",
+            "next": "end_fetch"
+          }
+        ]
+      },
+      "help_path": {
+        "text": "You find a kind park ranger nearby.",
+        "choices": [
+          {
+            "label": "Tell the ranger about the puppy",
+            "next": "end_ranger"
+          },
+          {
+            "label": "Look for the owner yourself",
+            "next": "end_search"
+          }
+        ]
+      },
+      "end_home": {
+        "text": "You give the puppy a warm home. It is so happy!",
+        "isEnding": true
+      },
+      "end_fetch": {
+        "text": "You and the puppy play all afternoon. Best day ever!",
+        "isEnding": true
+      },
+      "end_ranger": {
+        "text": "The ranger helps find the puppy's family. Reunited at last!",
+        "isEnding": true
+      },
+      "end_search": {
+        "text": "You find a sign with the owner's number. The puppy goes home safe!",
+        "isEnding": true
+      }
+    }
+  },
+  {
+    "item_id": "adventure_garden",
+    "skill_id": "choose_your_adventure",
+    "difficulty_weight": 4,
+    "startNode": "start",
+    "nodes": {
+      "start": {
+        "text": "You find a gate covered in flowers. It is a little open.",
+        "choices": [
+          {
+            "label": "Push the gate open",
+            "next": "open_path"
+          },
+          {
+            "label": "Peek through the flowers",
+            "next": "peek_path"
+          }
+        ]
+      },
+      "open_path": {
+        "text": "Inside you see a garden full of butterflies!",
+        "choices": [
+          {
+            "label": "Chase a butterfly",
+            "next": "end_chase"
+          },
+          {
+            "label": "Sit and watch quietly",
+            "next": "end_watch"
+          }
+        ]
+      },
+      "peek_path": {
+        "text": "You see a small bunny hopping in the grass.",
+        "choices": [
+          {
+            "label": "Follow the bunny",
+            "next": "end_follow"
+          },
+          {
+            "label": "Wave hello",
+            "next": "end_wave"
+          }
+        ]
+      },
+      "end_chase": {
+        "text": "You catch up to a beautiful blue butterfly. It lands on your hand!",
+        "isEnding": true
+      },
+      "end_watch": {
+        "text": "You watch the butterflies dance in the sun. So peaceful!",
+        "isEnding": true
+      },
+      "end_follow": {
+        "text": "The bunny leads you to a patch of yummy berries!",
+        "isEnding": true
+      },
+      "end_wave": {
+        "text": "The bunny hops over and sits by your feet. New friend!",
+        "isEnding": true
+      }
+    }
+  },
+  {
+    "item_id": "adventure_space",
+    "skill_id": "choose_your_adventure",
+    "difficulty_weight": 4,
+    "startNode": "start",
+    "nodes": {
+      "start": {
+        "text": "You climb into a shiny rocket ship. It is ready for takeoff!",
+        "choices": [
+          {
+            "label": "Press the big red button",
+            "next": "button_path"
+          },
+          {
+            "label": "Look out the window first",
+            "next": "window_path"
+          }
+        ]
+      },
+      "button_path": {
+        "text": "Whoosh! The rocket zooms into space!",
+        "choices": [
+          {
+            "label": "Look at the stars",
+            "next": "end_stars"
+          },
+          {
+            "label": "Look for other planets",
+            "next": "end_planets"
+          }
+        ]
+      },
+      "window_path": {
+        "text": "You see the whole world getting smaller and smaller.",
+        "choices": [
+          {
+            "label": "Wave goodbye to Earth",
+            "next": "end_wave2"
+          },
+          {
+            "label": "Get excited for space",
+            "next": "end_excited"
+          }
+        ]
+      },
+      "end_stars": {
+        "text": "You see a million twinkling stars. It is amazing!",
+        "isEnding": true
+      },
+      "end_planets": {
+        "text": "You spot a big red planet way off in the distance!",
+        "isEnding": true
+      },
+      "end_wave2": {
+        "text": "You wave and smile as your big adventure begins!",
+        "isEnding": true
+      },
+      "end_excited": {
+        "text": "You cheer as the rocket flies faster into the sky!",
+        "isEnding": true
+      }
+    }
+  }
+]
