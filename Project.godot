@@ -1,0 +1,18 @@
+; Engine configuration file.
+; This is a generated file; its contents are meant to be machine-readable.
+
+config_version=5
+
+[application]
+
+config/name="Reading App Backend Demo"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[autoload]
+
+SkillGraph="*res://autoload/skill_graph.gd"
+MasteryTracker="*res://autoload/mastery_tracker.gd"
+AttemptLog="*res://autoload/attempt_log.gd"
+PlacementSession="*res://autoload/placement_session.gd"
+Companion="*res://autoload/companion.gd"
