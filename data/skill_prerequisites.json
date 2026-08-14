@@ -1,0 +1,77 @@
+[
+  {
+    "skill_id": "cvc_short_a",
+    "prerequisite_skill_id": "letter_sounds_mn",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "cvc_short_a",
+    "prerequisite_skill_id": "letter_sounds_apr",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "blend_st",
+    "prerequisite_skill_id": "cvc_short_a",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "blend_bl",
+    "prerequisite_skill_id": "cvc_short_a",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "sight_words_2letter",
+    "prerequisite_skill_id": "cvc_short_a",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "sight_words_3letter",
+    "prerequisite_skill_id": "sight_words_2letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "sight_words_4letter",
+    "prerequisite_skill_id": "sight_words_3letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "sentence_building",
+    "prerequisite_skill_id": "sight_words_2letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "sentence_building",
+    "prerequisite_skill_id": "cvc_short_a",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "word_families_multisyllabic",
+    "prerequisite_skill_id": "blend_st",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "word_families_multisyllabic",
+    "prerequisite_skill_id": "sight_words_2letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "reading_comprehension_short",
+    "prerequisite_skill_id": "sight_words_4letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "reading_comprehension_short",
+    "prerequisite_skill_id": "word_families_multisyllabic",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "choose_your_adventure",
+    "prerequisite_skill_id": "sight_words_4letter",
+    "strength": "hard"
+  },
+  {
+    "skill_id": "choose_your_adventure",
+    "prerequisite_skill_id": "word_families_multisyllabic",
+    "strength": "hard"
+  }
+]
