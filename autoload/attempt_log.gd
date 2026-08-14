@@ -91,7 +91,7 @@ func skills_needing_practice(child_id: String, limit: int = 5) -> Array:
     return out.slice(0, limit)
 
 ## View 4: tier completion — mastered / total skills per tier.
-    func tier_progress(child_id: String) -> Dictionary:
+func tier_progress(child_id: String) -> Dictionary:
     var out := {}  # tier -> {mastered: int, total: int}
     for skill_id in SkillGraph.get_all_skill_ids():
         var skill := SkillGraph.get_skill(skill_id)
