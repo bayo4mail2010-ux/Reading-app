@@ -150,7 +150,7 @@ func _recompute_rates(st: Dictionary) -> void:
     st["avg_latency_ms"] = float(total_latency) / float(n)
 
 func _meets_mastery(st: Dictionary) -> bool:
-func _meets_mastery(st: Dictionary) -> bool:
+
     var n: int = st["attempts_window"].size()
     if n < MIN_ATTEMPTS_FOR_MASTERY:
         return false
