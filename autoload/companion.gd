@@ -121,7 +121,8 @@ func equip(child_id: String, accessory_id: String) -> void:
 func add_star(child_id: String) -> void:
     var st := get_state(child_id)
     st["total_stars"] += 1
-    if st["total_stars"] >= 20 and not st["hit_20_stars"]:st["hit_20_stars"] = true
+    if st["total_stars"] >= 20 and not st["hit_20_stars"]:
+        st["hit_20_stars"] = true
         unlock_accessory(child_id, "sparkleboots")
 
 ## Streak tracking — call on a first-try correct round (increments,
