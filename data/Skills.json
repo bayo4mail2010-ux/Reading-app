@@ -1,0 +1,86 @@
+[
+  {
+    "skill_id": "vocabulary_objects",
+    "tier": 0,
+    "display_name": "Everyday Objects",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "vocabulary_animals",
+    "tier": 0,
+    "display_name": "Animals",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "letter_sounds_mn",
+    "tier": 1,
+    "display_name": "Letter Sounds: M, N, S, T",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "letter_sounds_apr",
+    "tier": 1,
+    "display_name": "Letter Sounds: A, P, R",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "cvc_short_a",
+    "tier": 1,
+    "display_name": "Short A Words",
+    "mode": "blend"
+  },
+  {
+    "skill_id": "blend_st",
+    "tier": 2,
+    "display_name": "ST Blends",
+    "mode": "blend"
+  },
+  {
+    "skill_id": "blend_bl",
+    "tier": 2,
+    "display_name": "BL Blends",
+    "mode": "blend"
+  },
+  {
+    "skill_id": "sight_words_2letter",
+    "tier": 2,
+    "display_name": "Sight Words: 2 Letters (a, is, to, he)",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "sight_words_3letter",
+    "tier": 2,
+    "display_name": "Sight Words: 3 Letters (the, was, she)",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "sight_words_4letter",
+    "tier": 2,
+    "display_name": "Sight Words: 4 Letters (said, they, were, have, what, from, your)",
+    "mode": "recognize"
+  },
+  {
+    "skill_id": "sentence_building",
+    "tier": 2,
+    "display_name": "Build a Sentence",
+    "mode": "sentence"
+  },
+  {
+    "skill_id": "word_families_multisyllabic",
+    "tier": 3,
+    "display_name": "Multi-Syllable Words",
+    "mode": "syllable"
+  },
+  {
+    "skill_id": "reading_comprehension_short",
+    "tier": 3,
+    "display_name": "Short Story Comprehension",
+    "mode": "story"
+  },
+  {
+    "skill_id": "choose_your_adventure",
+    "tier": 3,
+    "display_name": "Choose Your Adventure",
+    "mode": "adventure"
+  }
+]
